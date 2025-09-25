@@ -24,7 +24,7 @@ We track issues publicly on GitHub:
 
 ## Data & Privacy
 Balory stores data locally on your device. No personal data is sold or shared.  
-Read the full policy: [Privacy Policy](./privacy)
+Read the full policy: [Privacy Policy](./privacy-policy)
 
 ## Terms
 Read our [Terms of Use](./terms).
