@@ -1,64 +1,76 @@
 # Balory – Privacy Policy
 
-_Last Updated: September 22, 2025_  
-_Version: 1.0_
+_Last updated: October 25, 2025_  
+_Version: 1.1_
 
 ---
 
-## 1. Data Processing and Storage
-All your financial data is stored exclusively locally on your device. Balory does not use servers, cloud sync, or transmit data to external services.
+## 1. Data Storage and Processing
+All personal and financial data you enter in **Balory** is stored **exclusively on your device**.  
+Balory operates entirely **offline** – no servers, cloud storage, or third-party APIs are used to process or store your information.
 
-Your transactions, accounts, categories, and all other financial information remain completely under your control on your smartphone or tablet.
+Your transactions, accounts, budgets, and all related data remain **private and fully under your control**.  
+No automatic synchronization with cloud services takes place unless you explicitly use a local export or import function (e.g. manual backup).
 
-No automatic synchronization with cloud services takes place. Your data is private and accessible only to you.
-
-Balory complies with applicable data protection regulations, including the EU General Data Protection Regulation (GDPR) and the Swiss Federal Act on Data Protection (revDSG).
-
----
-
-## 2. Permissions and Notifications
-Push notifications are only activated after your explicit consent.
-
-Notification content does not contain sensitive data such as account balances, transaction amounts, or account names.
-
-Notifications serve exclusively for general reminders (e.g., “Have you recorded expenses today?”).
-
-Camera and photo library permissions are used only for attaching receipts to transactions.
+Balory complies with the **EU General Data Protection Regulation (GDPR)** and the **Swiss Federal Act on Data Protection (revDSG)**.
 
 ---
 
-## 3. Analytics and Tracking
-Balory does not use analytics tools or third-party tracking services.
+## 2. Permissions and Access
+Balory only requests permissions strictly necessary for its functionality:
 
-No usage statistics are collected or transmitted to external providers.
+- **Notifications:** Used solely for local reminders (e.g. expense tracking).  
+  Notification content never includes sensitive data such as account balances or transaction details.  
+  Notifications are only activated after your explicit consent.
 
-Your app usage remains completely private and is not monitored.
+- **Camera & Media Library:** Used exclusively for attaching receipts or documents to transactions.  
+  Images remain stored locally and are never uploaded or shared.
 
----
-
-## 4. Your Rights and Data Control
-You have complete control over your data at all times.
-
-All data can be deleted directly in the app using the reset function.
-
-Uninstalling the app automatically removes all local data.
-
-There are no hidden data remnants or backups outside your device.
+No other device data (e.g. contacts, location, calendar) is accessed.
 
 ---
 
-## 5. Contact and Support
-For questions about privacy or technical issues, you can reach us at:
+## 3. In-App Purchases
+Balory offers optional one-time purchases (e.g. *Founders Edition*).  
+These purchases are handled directly through the **App Store** or **Google Play** and are subject to their respective privacy policies.  
+Balory itself does **not** collect or process any payment information.
 
-**Email:** ngt-digital@outlook.com
+Purchase status (license validation) is stored securely on your device and managed locally.
 
+---
+
+## 4. Analytics and Tracking
+Balory does **not** use analytics, telemetry, crash reporting, or tracking tools.  
+No usage statistics are collected, and no data is shared with third parties.
+
+Your app usage remains completely private and anonymous.
+
+---
+
+## 5. Your Rights and Data Control
+You have full control over your data at any time:
+
+- All entries can be deleted individually or completely via the in-app reset function.  
+- Uninstalling the app removes all stored data automatically.  
+- Backups (if created) remain only where you stored them (e.g. your device storage or manual export location).
+
+Balory does not keep or restore data outside your local device.
+
+---
+
+## 6. Contact and Support
+For privacy or data protection questions, you can contact us at:
+
+**Email:** ngt-digital@outlook.com  
 We typically respond within 24–48 hours.
 
 ---
 
-## 6. Changes to This Privacy Policy
-We may update this privacy policy as needed.
+## 7. Changes to This Policy
+We may update this privacy policy from time to time.  
+The current version and date will always be displayed at the top of this document.  
+In case of significant changes, we will notify users through an in-app message.
 
-Significant changes will be indicated by updating the “Last updated” date.
+---
 
-For major changes, we will inform you through app notifications.
+© 2025 NGT Digital. All rights reserved.
