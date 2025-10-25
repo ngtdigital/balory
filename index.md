@@ -31,4 +31,4 @@ Read our [Terms of Use](./terms.md).
 
 ---
 
-© {CURRENT_YEAR} NGT Digital. All rights reserved.
+© 2025 NGT Digital. All rights reserved.
