@@ -12,8 +12,6 @@ O app funciona completamente offline. Suas transações, saldos, orçamentos e a
 
 Balory foi criado para quem quer clareza e controle sem complicação.
 
-Disponível para iOS e Android.
-
 ---
 
 ## Funcionalidades principais
@@ -36,7 +34,7 @@ Você pode usar o Balory sem pagar.
 
 Existe uma compra única opcional dentro do app. Ela libera funcionalidades adicionais e ajuda a financiar o desenvolvimento contínuo.
 
-O pagamento é processado diretamente pela App Store ou pelo Google Play. O Balory não coleta nem armazena dados de pagamento.
+O pagamento é processado diretamente pela App Store. O Balory não coleta nem armazena dados de pagamento.
 
 ---
 
