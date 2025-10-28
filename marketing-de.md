@@ -12,8 +12,6 @@ Die App funktioniert vollständig offline. Deine Transaktionen, Kontostände, Bu
 
 Balory richtet sich an Menschen, die klare Übersicht wollen – ohne komplizierte Finanzsoftware.
 
-Verfügbar für iOS und Android.
-
 ---
 
 ## Wichtige Funktionen
@@ -36,7 +34,7 @@ Balory kann ohne Kauf verwendet werden.
 
 Ein optionaler einmaliger In-App-Kauf schaltet zusätzliche Komfortfunktionen frei und unterstützt die Weiterentwicklung.
 
-Die Zahlung wird direkt über den App Store bzw. Google Play abgewickelt. Wir selber verarbeiten keine Zahlungsdaten.
+Die Zahlung wird direkt über den App Store abgewickelt. Wir selber verarbeiten keine Zahlungsdaten.
 
 ---
 
@@ -44,7 +42,7 @@ Die Zahlung wird direkt über den App Store bzw. Google Play abgewickelt. Wir se
 
 Deine Finanzdaten gehören dir.
 
-- Alle Daten bleiben lokal auf deinem Gerät  
+- Alle Daten bleiben lokal auf deinem Gerät
 - Es wird nichts an externe Server gesendet  
 - Keine Analytics, keine Werbung, kein Tracking  
 - Du kontrollierst deine Backups und kannst alle Daten jederzeit löschen
