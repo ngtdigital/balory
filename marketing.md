@@ -12,8 +12,6 @@ The app runs fully offline. Your transactions, balances, budgets and notes are s
 
 Balory is designed for people who want structure and clarity without complexity.
 
-Available for iOS and Android.
-
 ---
 
 ## Key Features
@@ -36,7 +34,7 @@ Balory can be used without purchase.
 
 A one-time upgrade is available as an optional in-app purchase. This unlocks additional comfort features and supports ongoing development.
 
-Payments are processed securely by the App Store / Google Play. We do not handle your payment information.
+Payments are processed securely by the App Store. We do not handle your payment information.
 
 ---
 
