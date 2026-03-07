@@ -1,7 +1,7 @@
 # Balory – Privacy Policy
 
-_Last updated: October 25, 2025_  
-_Version: 1.1_
+_Last updated: March 7, 2026_  
+_Version: 1.2_
 
 ---
 
@@ -9,8 +9,10 @@ _Version: 1.1_
 All personal and financial data you enter in **Balory** is stored **exclusively on your device**.  
 Balory operates entirely **offline** – no servers, cloud storage, or third-party APIs are used to process or store your information.
 
-Your transactions, accounts, budgets, and all related data remain **private and fully under your control**.  
-No automatic synchronization with cloud services takes place unless you explicitly use a local export or import function (e.g. manual backup).
+Your transactions, accounts, budgets, savings goals, and all related data remain **private and fully under your control**.  
+No automatic synchronization with cloud services takes place unless you explicitly use the local export or backup function.
+
+This includes all Finance Coach calculations (Financial Health Score, coaching actions, savings rate, etc.) – these are computed entirely on-device and never transmitted.
 
 Balory complies with the **EU General Data Protection Regulation (GDPR)** and the **Swiss Federal Act on Data Protection (revDSG)**.
 
@@ -19,12 +21,15 @@ Balory complies with the **EU General Data Protection Regulation (GDPR)** and th
 ## 2. Permissions and Access
 Balory only requests permissions strictly necessary for its functionality:
 
-- **Notifications:** Used solely for local reminders (e.g. expense tracking).  
+- **Notifications:** Used solely for local reminders (e.g. recurring transaction alerts).  
   Notification content never includes sensitive data such as account balances or transaction details.  
   Notifications are only activated after your explicit consent.
 
 - **Camera & Media Library:** Used exclusively for attaching receipts or documents to transactions.  
   Images remain stored locally and are never uploaded or shared.
+
+- **File Access:** Used solely for CSV/XLSX import and local data export/backup.  
+  Files are only read or written at your explicit request.
 
 No other device data (e.g. contacts, location, calendar) is accessed.
 
@@ -48,7 +53,7 @@ Your app usage remains completely private and anonymous.
 ---
 
 ## 5. Your Rights and Data Control
-You have full control over your data at any time:
+You have full control over your data at all times:
 
 - All entries can be deleted individually or completely via the in-app reset function.  
 - Uninstalling the app removes all stored data automatically.  
@@ -59,7 +64,7 @@ Balory does not keep or restore data outside your local device.
 ---
 
 ## 6. Contact and Support
-For privacy or data protection questions, you can contact us at:
+For privacy or data protection questions, please contact us at:
 
 **Email:** ngt-digital@outlook.com  
 We typically respond within 24–48 hours.
@@ -73,4 +78,4 @@ In case of significant changes, we will notify users through an in-app message.
 
 ---
 
-© 2025 NGT Digital. All rights reserved.
+© 2026 NGT Digital. All rights reserved.
